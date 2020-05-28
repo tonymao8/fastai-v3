@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1blxwr_e7uUiL6k6mpCDiL02WVI9QmXoo'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1_l2FisVBp95TAb0A0ocUJr9od1oyvd3H'
 export_file_name = 'export.pkl'
 
 classes = ['sedans', 'hatchbacks', 'convertibles']
